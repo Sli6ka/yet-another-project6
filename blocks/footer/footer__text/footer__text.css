@@ -1,0 +1,7 @@
+.footer__text {
+    color: white;
+    font-family: inter;
+    font-size: 14px;
+    line-height: calc(16 / 14 * 100%);
+    margin: 0;
+}

@@ -1,0 +1,6 @@
+.place__url {
+    color: #AAAAAA;
+    font-family: inter;
+    font-size: 12px;
+    line-height: calc(12 / 12 * 100%);
+}

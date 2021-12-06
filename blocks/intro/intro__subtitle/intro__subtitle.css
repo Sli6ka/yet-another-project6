@@ -1,0 +1,7 @@
+.intro__subtitle {
+    margin: 40px 0 33px;
+    color: white;
+    font-family: inter;
+    font-size: 16px;
+    line-height: calc(26.08 / 16 * 100%);
+}
